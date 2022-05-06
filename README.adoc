@@ -1,3 +1,5 @@
 = bad-code-example
 
-An example project full of bad-code (anti-patterns, code-smells, etc.) to demonstrate our tooling (esp. https://www.sonarqube.org/[SonarQube] with our recommended settings and https://github.com/devonfw/sonar-devon4j-plugin[sonarqube-devon-plugin]).
+An example project full of bad-code (anti-patterns, code-smells, etc.) to spike on Static code analysis tools
+
+
